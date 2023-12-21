@@ -47,23 +47,22 @@ Feel free to reach out for questions or discussions! 🚀
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kiran-kumar-k3)
 
 # 💻 Tech Stack:
-<div align="center">
-  <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=#5319e7" alt="C">
-  <img src="https://img.shields.io/badge/perl-39457E?style=for-the-badge&logo=perl&logoColor=white&labelColor=#00a300" alt="Perl">
-  <img src="https://img.shields.io/badge/shell-script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=#364959" alt="Shell Script">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=#007bff" alt="Python">
-  <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white&labelColor=#007bff" alt="PowerShell">
-  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=#f06392" alt="CSS3">
-  <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=#0097a7" alt="Dart">
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=#ed4c5c" alt="HTML5">
-  <img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=#33691e" alt="Java">
-  <img src="https://img.shields.io/badge/windows-terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white&labelColor=#563c76" alt="Windows Terminal">
-  <img src="https://img.shields.io/badge/apache-D42029?style=for-the-badge&logo=apache&logoColor=white&labelColor=#d95b43" alt="Apache">
-  <img src="https://img.shields.io/badge/mysql-00000f?style=for-the-badge&logo=mysql&logoColor=white&labelColor=#007bff" alt="MySQL">
-  <img src="https://img.shields.io/badge/mongodb-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=#4285f4" alt="MongoDB">
-  <img src="https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=#f00" alt="Canva">
-  <img src="https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-</div>
+
+![visual studio code](https://img.shields.io/badge/-vscode-333333?style=flat&logo=C%2B%2B&logoColor=vscode)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=C)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=C++)
+![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logo=C%2B%2B&logoColor=react)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=C%2B%2B&logoColor=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=GitHub)
+![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=GitLab)
+![Terminal](https://img.shields.io/badge/-Terminal-333333?style=flat&logo=Terminal)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
+![Hackthebox](https://img.shields.io/badge/-Hackthebox-333333?style=flat&logo=Hackthebox)
+![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KIRAN-KUMAR-K3&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
