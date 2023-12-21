@@ -14,17 +14,14 @@
 
 - 🔭 Currently pursuing [OSCP](https://www.offsec.com/courses/pen-200/) certification 🛡️
 
-- 💬 **Ask me about:**
-  - **Cybersecurity:** Phishing countermeasures, Ethical hacking practices
-  - **Scripting Languages:** Proficient in Python, C, and Bash scripting
-  - **Linux Customization:** Tailoring Linux environments for optimal functionality
-  - **Server Setup:** Experienced in setting up and securing servers, particularly with Ubuntu
-  - **Operating Systems:** Installation and configuration across various platforms
-  - **GitHub and Open Source:** Actively contributing to open-source projects and GitHub community
-  - **Tech Stack Recommendations:** Providing insights and recommendations for effective tech stacks
-  - **Continuous Learning:** Passionate about staying updated with industry trends and emerging technologies
+- 💬 **Let's talk about:**
+  - 🌐 Cybersecurity & Ethical Hacking
+  - 💻 Python, C, Bash Scripting
+  - 🐧 Linux Customization & Servers
+  - 🚀 GitHub Contributions & Open Source
+  - 🔧 Tech Stack Recommendations
 
-Feel free to reach out for discussions, collaborations, or any questions related to these areas! 🚀
+Feel free to reach out for vibrant discussions or any questions in these areas! 🚀
 
 -📧 Email: [18kirankumar.k03@gmail.com](mailto:18kirankumar.k03@gmail.com)
 
