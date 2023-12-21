@@ -61,8 +61,6 @@ Feel free to reach out for questions or discussions! 🚀
 ![Terminal](https://img.shields.io/badge/-Terminal-333333?style=flat&logo=Terminal)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
 ![Hackthebox](https://img.shields.io/badge/-Hackthebox-333333?style=flat&logo=Hackthebox)
-![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KIRAN-KUMAR-K3&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
