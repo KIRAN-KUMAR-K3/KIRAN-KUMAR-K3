@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm KIRAN KUMAR K</h1>
-<h3 align="center">🔒 Ethical Hacker | Cyber Alchemist | Unraveling vulnerabilities, one line of code at a time | 🌐 Securing the digital frontier | #WhiteHatWizard #CyberDefender
+<h3 align="center">🔒🐧 Linux Defender | Digital Guardian | Uncovering vulnerabilities with precision | 🌐 Safeguarding the digital landscape | #SecurityProtector #CyberDefender
 </h3></br>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
