@@ -15,14 +15,16 @@
 - 🔭 Currently pursuing [OSCP](https://www.offsec.com/courses/pen-200/) certification 🛡️
 
 - 💬 **Ask me about:**
-  - **Algorithms and Data Structures**
-  - **Programming Languages (Python, Java, C)**
-  - **Web Development (HTML, CSS, JavaScript)**
-  - **Mobile App Development (Flutter, Android)**
-  - **Machine Learning and Computer Vision**
-  - **Cybersecurity**
+  - **Cybersecurity:** Phishing countermeasures, Ethical hacking practices
+  - **Scripting Languages:** Proficient in Python, C, and Bash scripting
+  - **Linux Customization:** Tailoring Linux environments for optimal functionality
+  - **Server Setup:** Experienced in setting up and securing servers, particularly with Ubuntu
+  - **Operating Systems:** Installation and configuration across various platforms
+  - **GitHub and Open Source:** Actively contributing to open-source projects and GitHub community
+  - **Tech Stack Recommendations:** Providing insights and recommendations for effective tech stacks
+  - **Continuous Learning:** Passionate about staying updated with industry trends and emerging technologies
 
-Feel free to reach out for questions or discussions! 🚀
+Feel free to reach out for discussions, collaborations, or any questions related to these areas! 🚀
 
 -📧 Email: [18kirankumar.k03@gmail.com](mailto:18kirankumar.k03@gmail.com)
 
