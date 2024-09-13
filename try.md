@@ -1,6 +1,4 @@
-Here’s a professional GitHub README profile tailored for you based on the structure you provided:
 
----
 
 <h1 align="center">Kiran Kumar K</h1>
 <h3 align="center">Cybersecurity Enthusiast || Full Stack Developer || Linux Power User || AI/ML Explorer</h3>
@@ -99,7 +97,3 @@ Here’s a professional GitHub README profile tailored for you based on the stru
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KIRAN-KUMAR-K3&show_icons=true&locale=en&layout=compact" alt="KIRAN-KUMAR-K3" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KIRAN-KUMAR-K3&" alt="KIRAN-KUMAR-K3" /></p>
-
----
-
-This template presents your experience and skills in a clear and professional format. You can adjust the details or add more projects, certifications, or experience as needed.
