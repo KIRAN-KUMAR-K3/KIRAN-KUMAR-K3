@@ -1,9 +1,8 @@
-
 **KIRAN KUMAR K**  
 Haveri, Karnataka, India  
 +91 8310937381 | 18kirankumar.k03@gmail.com  
 [GitHub: Kiran-Kumar-K3](https://github.com/KIRAN-KUMAR-K3)  
-[LinkedIn: Kiran Kumar K](#)
+[LinkedIn: Kiran Kumar K](https://www.linkedin.com/in/kiran-kumar-k3/)
 
 ---
 
