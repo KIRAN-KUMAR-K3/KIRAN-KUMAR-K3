@@ -64,8 +64,6 @@ Feel free to reach out for vibrant discussions or any questions in these areas! 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KIRAN-KUMAR-K3&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 [![@kirankumark3's Holopin board](https://holopin.me/kirankumark3)](https://holopin.io/@kirankumark3)
 ---
