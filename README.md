@@ -41,6 +41,9 @@ Feel free to reach out for vibrant discussions or any questions in these areas! 
   </p>
 </blockquote>
 
+## 📄 Resume
+- **Download my Resume**: [KIRAN-KUMAR-K-2024.pdf](https://github.com/KIRAN-KUMAR-K3/KIRAN-KUMAR-K-2024.pdf)
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/kirankumar.k.56211)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kirankumar.k0000)
