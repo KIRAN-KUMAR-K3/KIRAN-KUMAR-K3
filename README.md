@@ -17,10 +17,9 @@
 ---
 
 ## 🚀 About Me
-
+<div style="text-align: justify;">
 I am a dedicated cybersecurity enthusiast with a passion for uncovering vulnerabilities and fortifying digital landscapes. My journey in ethical hacking is driven by a commitment to safeguarding systems against malicious threats. Armed with curiosity and technical expertise, I navigate the complex realm of cybersecurity, striving to contribute to a safer online world.
-
-
+</div>
 
 ---
 
