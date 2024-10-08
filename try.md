@@ -1,3 +1,16 @@
+NoSQL Fundamentals - 08 Oct 2024
+Java EE 8 Microservices - 02 Sep 2024
+Java for Beginners - 01 Aug 2024
+Hands-On Java Regular Expressions - 01 Aug 2024
+Programming in Core Java - 01 Aug 2024
+TechA Network Hacking Prevention Foundation Certification - 04 Mar 2024
+Network Security - 01 Mar 2024
+Hands-On Network Scanning with Nmap for Network Security - 21 Feb 2024
+Advanced Wireless Hacking - 21 Feb 2024
+Cryptography in IT Security & Hacking - 16 Feb 2024
+Python Foundation Certification - 25 Aug 2023
+Basics of Python - 25 Jul 2023
+
 <h1 align="center">Kiran Kumar K</h1>
 <h3 align="center">Cybersecurity Enthusiast | Full Stack Developer | Linux Power User | AI/ML Explorer</h3>
 
