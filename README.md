@@ -5,38 +5,50 @@
 <h1 align="center">Hi 👋, I'm KIRAN KUMAR K</h1>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<h3 align="center">🔒🐧 Linux Defender | Digital Guardian | Uncovering vulnerabilities with precision | 🌐 Safeguarding the digital landscape | #SecurityProtector #CyberDefender
-</h3></br>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<h3><p align="center"><b>🔒 Ethical Hacker | Cybersecurity Enthusiast | Vulnerability Hunter</b></p></h3>
+
+<img align="right" alt="Coding" width="350" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=kiran-kumar-k3&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </p>
 
-- 🔭 Currently pursuing [OSCP](https://www.offsec.com/courses/pen-200/) certification 🛡️
+---
 
-- 💬 **Let's talk about:**
-  - 🌐 Cybersecurity & Ethical Hacking
-  - 💻 Python, C, Bash Scripting
-  - 🐧 Linux Customization & Servers
-  - 🚀 GitHub Contributions & Open Source
-  - 🔧 Tech Stack Recommendations
+## 🚀 About Me
 
-Feel free to reach out for vibrant discussions or any questions in these areas! 🚀
+I am a dedicated cybersecurity enthusiast with a passion for uncovering vulnerabilities and fortifying digital landscapes. My journey in ethical hacking is driven by a commitment to safeguarding systems against malicious threats. Armed with curiosity and technical expertise, I navigate the complex realm of cybersecurity, striving to contribute to a safer online world.
 
--📧 Email: [18kirankumar.k03@gmail.com](mailto:18kirankumar.k03@gmail.com)
 
-- ⚡ 🌟 Nocturnal coder: Unleashing tech magic during late-night hours. 🌙💻
 
+---
+
+## 🔍 What I Do
+
+- **Exploit & Defend**: Penetration testing to expose weaknesses before the bad guys do.
+- **Script & Automate**: Crafting Python and Bash scripts to automate tasks and enhance security measures.
+- **Linux Customization**: Mastering Linux systems for optimal performance and security.
+
+---
+
+## 🛠️ Skills
+- **Languages**: Python, C, Java, SQL, Bash
+- **Technologies**: Docker, OpenCV, Django, MySQL
+- **Operating Systems**: Kali Linux, Arch Linux, Red Hat, Ubuntu
+- **Cybersecurity**: Ethical Hacking, Vulnerability Assessment, Penetration Testing
+
+---
 ## 📄 Resume
 - **Download my Resume**: [KIRAN-KUMAR-K-2024.pdf](https://github.com/KIRAN-KUMAR-K3/KIRAN-KUMAR-K3/blob/main/KIRAN-KUMAR-K-2024.pdf)
-
+---
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/kirankumar.k.56211)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kirankumar.k0000)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kiran-kumar-k3)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KIRAN_KUMAR_K3) 
 
+---
 
 ## 💻 Tech Stack:
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
@@ -65,7 +77,7 @@ Feel free to reach out for vibrant discussions or any questions in these areas! 
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
 
-
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KIRAN-KUMAR-K3&theme=highcontrast&hide_border=false)
