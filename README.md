@@ -9,7 +9,6 @@
 
 <img align="right" alt="Coding" width="350" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=kiran-kumar-k3&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </p>
@@ -48,7 +47,6 @@ I am a dedicated cybersecurity enthusiast with a passion for uncovering vulnerab
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KIRAN_KUMAR_K3) 
 
 ---
-
 ## 💻 Tech Stack:
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-%231793D1.svg?style=flat&logo=arch-linux&logoColor=white)
@@ -77,13 +75,11 @@ I am a dedicated cybersecurity enthusiast with a passion for uncovering vulnerab
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
 
 ---
-
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KIRAN-KUMAR-K3&theme=highcontrast&hide_border=false)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KIRAN-KUMAR-K3&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
-
 
 [![@kirankumark3's Holopin board](https://holopin.me/kirankumark3)](https://holopin.io/@kirankumark3)
 ---
