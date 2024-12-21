@@ -32,6 +32,10 @@ I am a dedicated cybersecurity enthusiast with a passion for uncovering vulnerab
 - **Technologies**: Docker, OpenCV, Django, MySQL
 - **Operating Systems**: Kali Linux, Arch Linux, Red Hat, Ubuntu
 - **Cybersecurity**: Ethical Hacking, Vulnerability Assessment, Penetration Testing
+---
+## 📜 Certifications
+I have successfully completed various certifications to enhance my knowledge and skills in cybersecurity, programming, and web development. You can view all my certifications here:  
+[**Certification Folder**](https://drive.google.com/drive/folders/1y3xl713c_HCKCs5f3FAjCfzEl1hGMYuw)
 
 ---
 ## 📄 Resume
