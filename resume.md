@@ -17,7 +17,7 @@ Aspiring software developer and cybersecurity enthusiast with a strong foundatio
 Alva's Institute of Engineering and Technology | 2025 (Expected)
 
 **Diploma in Mechanical Engineering**  
-S J V P Polytechnic College, Harihar | 2019
+S J V P Polytechnic College, Harihar | 2022
 
 ---
 
@@ -107,7 +107,7 @@ S J V P Polytechnic College, Harihar | 2019
 ## EXPERIENCE
 
 ### **Cybersecurity Researcher (Vulnerability Assessment and Penetration Testing)**  
-_Self-Employed_ | June 2024 - Present  
+_Self-Employed_ | January 2025 - Present  
 - Conducted vulnerability assessments across various web applications, identifying and reporting security flaws.
 - **NASA Vulnerability Report**: Disclosed a bulk directory listing vulnerability across multiple subdomains in August 2024.
 - **hrylabour.gov.in XSS Vulnerability**: Reported and collaborated to resolve a reflected XSS vulnerability in June 2024.
