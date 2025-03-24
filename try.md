@@ -1,114 +1,75 @@
-NoSQL Fundamentals - 08 Oct 2024
-Java EE 8 Microservices - 02 Sep 2024
-Java for Beginners - 01 Aug 2024
-Hands-On Java Regular Expressions - 01 Aug 2024
-Programming in Core Java - 01 Aug 2024
-TechA Network Hacking Prevention Foundation Certification - 04 Mar 2024
-Network Security - 01 Mar 2024
-Hands-On Network Scanning with Nmap for Network Security - 21 Feb 2024
-Advanced Wireless Hacking - 21 Feb 2024
-Cryptography in IT Security & Hacking - 16 Feb 2024
-Python Foundation Certification - 25 Aug 2023
-Basics of Python - 25 Jul 2023
+KIRAN KUMAR K
+Haveri, Karnataka, India
+📞 +91 8310937381 | 📧 18kirankumar.k03@gmail.com
+🔗 GitHub: Kiran-Kumar-K3 | LinkedIn: Kiran Kumar K
+________________________________________
+PROFESSIONAL SUMMARY
+Cybersecurity researcher and ethical hacker with expertise in penetration testing, vulnerability assessment, and network security. Adept at identifying, analyzing, and mitigating security vulnerabilities to enhance system resilience. Experienced in hands-on security testing, ethical hacking methodologies, and threat intelligence. Seeking a cybersecurity-focused role to leverage technical skills and research capabilities in securing digital infrastructures.
+________________________________________
+EDUCATION
+Bachelor of Engineering in Computer Science
+Alva's Institute of Engineering and Technology | Expected 2025
+Diploma in Mechanical Engineering
+S J V P Polytechnic College, Harihar | 2022
+________________________________________
+CERTIFICATIONS
+Ethical Hacking Essentials (EHE) – EC-Council
+ Network Defense Essentials (NDE) – EC-Council
+ Cyber Security Fundamentals Certification
+ Intro to Bug Bounty Hunting & Web Application Hacking – Udemy
+ Introduction to Dark Web, Anonymity, and Cryptocurrency – EC-Council
+ Awesome Pivoting - Pivot through Network like a Boss – Udemy
+ Linode: Foundations of Web Server Security
+ TechA Network Hacking Prevention Foundation Certification – Infosys
+ Play It Safe: Manage Security Risks – Coursera
+________________________________________
+TECHNICAL SKILLS
+•	Penetration Testing & Security Assessment: Web Application Hacking, VAPT, Network Security
+•	Threat Intelligence & Incident Response: SIEM Tools, Log Analysis, Security Hardening
+•	Offensive Security Tools: Metasploit, Nmap, Burp Suite, SQL Injection, AdminRecon
+•	Programming & Scripting: Python, Bash, SQL, C, Java
+•	System & Network Security: Firewall Configuration, IDS/IPS, Packet Inspection, Secure Authentication
+•	Cloud & DevSecOps: Google Cloud Security, AWS Security, CI/CD Pipeline Security
+•	Linux Security & Hardening: Kali Linux, Ubuntu, Secure Boot, Privilege Escalation Prevention
+•	Cryptography & Data Protection: Secure Hashing Algorithms (SHA, AES), OpenSSL
+•	Automation & Infrastructure Security: Shell Scripting, Server Hardening, Security Patch Management
+________________________________________
+PROFESSIONAL EXPERIENCE
+Cybersecurity Intern
+Information Security Office, Indian Institute of Science (IISc), Bangalore
+📅 March 2025 - June 2025
+•	Conducted security assessments, penetration testing, and risk mitigation strategies.
+•	Assisted in identifying and remediating security vulnerabilities within the institution’s network.
+•	Collaborated with cybersecurity teams on security audits, log analysis, and real-time threat detection.
+Cybersecurity Researcher (VAPT & Bug Bounty)
+Self-Employed | 📅 January 2025 - Present
+•	Disclosed security vulnerabilities in multiple high-profile platforms, including: 
+o	NASA – Reported bulk directory listing vulnerability (August 2024).
+o	hrylabour.gov.in – Discovered and assisted in fixing XSS vulnerability (June 2024).
+o	patanjaliayurved.net – Reported high-severity XSS vulnerability (July 2024).
+o	Stanford University – Identified AWS security misconfiguration leading to sensitive data exposure (July 2024).
+Cybersecurity Intern
+Edwin's Lab | 📅 2023
+•	Assisted in penetration testing, security analysis, and vulnerability research.
+•	Worked on real-world bug bounty programs, security patching, and ethical hacking initiatives.
+________________________________________
+PROJECTS
+ LogAnalyzer-Pro – Developed a Python-based tool to analyze network logs, detect anomalies, and visualize security threats.
+ Brouteforce – Designed an advanced brute-force attack tool for security testing.
+ Admin Recon – Created a reconnaissance tool for penetration testers.
+ Docker WordPress Setup – Built a secure, containerized WordPress deployment using Docker.
+ Linux Command Maestro – Developed an interactive CLI-based cybersecurity game for Linux mastery.
+ Poweroff Script – Automated secure system shutdown based on user-defined security policies.
+ Linux Mount Home – Automated secure external storage mounting in Linux environments.
+________________________________________
+EXTRACURRICULAR ACTIVITIES
+✔ Conducted security awareness workshops on ethical hacking and penetration testing.
+✔ Participated in national and international cybersecurity competitions, including CTF challenges.
+✔ Volunteered in community-driven cybersecurity initiatives and digital safety programs.
+________________________________________
+HOBBIES & INTERESTS
+🔹 Cybersecurity research and threat analysis
+🔹 Developing penetration testing tools and security automation scripts
+🔹 Participating in ethical hacking challenges and open-source security projects
+________________________________________
 
-<h1 align="center">Kiran Kumar K</h1>
-<h3 align="center">Cybersecurity Enthusiast | Full Stack Developer | Linux Power User | AI/ML Explorer</h3>
-
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=KIRAN-KUMAR-K3&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
-</p>
-
-<p align="center">
-    <a href="https://aiet.org.in/" target="_blank">
-        <img src="https://img.shields.io/badge/PersonalWebsite-blue" alt="Personal Website" />
-    </a>
-</p>
-
----
-
-## 🔧 Skills
-
-### Software
-<p>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=github,git,postman,docker,jenkins,figma,swagger" alt="Software Icons" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,pycharm,canva,eclipse,jupyter" alt="Development Tools" />
-</p>
-
-### Technical Proficiencies
-<p>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,python,react,django" alt="Web Technologies" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=java,sql,mysql,kotlin,flask" alt="Programming Languages" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=kali,bash,raspberrypi,c" alt="Linux & Scripting" />
-</p>
-
-### Operating Systems
-<p>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,ubuntu" alt="Operating Systems" />
-</p>
-
-### Additional Skills
-<p>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=excel,powerpoint,word" alt="Office Suite" />
-</p>
-
----
-
-## 📬 Connect with Me
-
-<p>
-    <a href="https://www.linkedin.com/in/kiran-kumar-k3/" target="_blank">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="LinkedIn" />
-    </a>
-    <a href="mailto:18kirankumar.k03@gmail.com">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" alt="Email" />
-    </a>
-    <a href="https://twitter.com/KiranKumarK3" target="_blank">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=x" alt="Twitter" />
-    </a>
-    <a href="https://instagram.com/kiran_kumar_k3" target="_blank">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" alt="Instagram" />
-    </a>
-    <a href="https://discord.com/users/kiran-kumar-k3" target="_blank">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=discord" alt="Discord" />
-    </a>
-</p>
-
----
-
-## 💼 Work Experience
-
-- **Cybersecurity Intern** (May 2024 - Aug 2024)
-- **Full Stack Developer Intern** (Jan 2024 - Apr 2024)
-- **AI/ML Research Assistant** (Oct 2023 - Dec 2023)
-- **Vulnerability Assessment & Penetration Testing** (Jul 2023 - Present)
-
----
-
-## 📂 Projects
-
-Explore my projects on [GitHub](https://github.com/KIRAN-KUMAR-K3?tab=repositories):
-- [Student-Mentor App](https://github.com/KIRAN-KUMAR-K3/Student-Mentor-App)
-- [Railway Administration System](https://github.com/KIRAN-KUMAR-K3/Railway-Administration-System)
-- [Face Recognition Authentication](https://github.com/KIRAN-KUMAR-K3/Face-Recognition-Auth)
-
----
-
-## 📜 Certifications
-
-Certifications I have completed can be found on my [LinkedIn](https://www.linkedin.com/in/kiran-kumar-k3/details/certifications/):
-- [Foundations of Cybersecurity](https://www.coursera.org/certificate-link)
-- [Complete WordPress Website Developer](https://www.udemy.com/certificate-link)
-- [Cryptography in IT Security & Hacking](https://www.udemy.com/certificate-link)
-
----
-
-## 📊 GitHub Stats
-
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KIRAN-KUMAR-K3&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=KIRAN-KUMAR-K3&" alt="Streak Stats" />
-</p>
-
----
-
-**Thank you for visiting my GitHub profile! 🌟**
