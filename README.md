@@ -39,7 +39,7 @@ I have successfully completed various certifications to enhance my knowledge and
 
 ---
 ## 📄 Resume
-- **Download my Resume**: [KIRAN-KUMAR-K-2025.pdf](https://github.com/KIRAN-KUMAR-K3/KIRAN-KUMAR-K3/blob/main/KIRAN-KUMAR-K-RESUME-2025.pdf)
+- **Download my Resume**: [KIRAN-KUMAR-K-2025.pdf](https://github.com/KIRAN-KUMAR-K3/KIRAN-KUMAR-K3/blob/main/KIRAN-KUMAR-K(RESUME).pdf)
 ---
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/kirankumar.k.56211)
